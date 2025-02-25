@@ -1,16 +1,13 @@
-# online_shop_app
+# Tugas Online Shop Flutter
 
-A new Flutter project.
+# User Register Page
+![User Register](assets\register_user.png)
 
-## Getting Started
+# User Login Page
+![User Login](assets\login_user.png)
 
-This project is a starting point for a Flutter application.
+# Admin Dashboard Page
+![Admin Dashboard](assets\admin_dashboard.png)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# User Register Page
+![Cashier Dashboard](assets\cashier_dashboard.png)
