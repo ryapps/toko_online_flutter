@@ -9,5 +9,5 @@
 # Admin Dashboard Page
 ![Admin Dashboard](assets/admin_dashboard.png)
 
-# User Register Page
+# Cashier Dashboard Page
 ![Cashier Dashboard](assets/cashier_dashboard.png)
